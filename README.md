@@ -12,7 +12,7 @@ Simple GPT app that uses the falcon-7b-instruct model with a Flask front-end.
 python -m venv venv
 ```
 
-## install Requirements
+## install requirements
 ```
 pip install -r requirements.txt
 ```

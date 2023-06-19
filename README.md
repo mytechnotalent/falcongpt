@@ -150,7 +150,7 @@ if __name__ == '__main__':
 
 ## run
 ```
-python kgpt.py
+python falcongpt.py
 ```
 
 ## sample output

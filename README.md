@@ -1,6 +1,6 @@
 ![image](https://github.com/mytechnotalent/falcongpt/blob/main/FalconGPT.png?raw=true)
 
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+## FREE GPT FROM SCRATCH [HERE](https://github.com/mytechnotalent/kgpt)
 
 <br>
 

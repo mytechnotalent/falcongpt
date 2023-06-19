@@ -1,6 +1,6 @@
 ![image](https://github.com/mytechnotalent/falcongpt/blob/main/FalconGPT.png?raw=true)
 
-## FREE GPT FROM SCRATCH [HERE](https://github.com/mytechnotalent/kgpt)
+## LEARN GPT FROM SCRATCH FOR FREE [HERE](https://github.com/mytechnotalent/kgpt)
 
 <br>
 

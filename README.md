@@ -154,7 +154,7 @@ python kgpt.py
 ```
 
 ## sample output
-![image](https://github.com/mytechnotalent/kgpt/blob/main/output.png?raw=true)
+![image](https://github.com/mytechnotalent/falcongpt/blob/main/output.jpg?raw=true)
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)

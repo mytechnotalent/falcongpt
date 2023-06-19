@@ -1,0 +1,6 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes 
+flask
